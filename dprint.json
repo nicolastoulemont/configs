@@ -4,6 +4,7 @@
 	"useTabs": true,
 	"indentWidth": 4,
 	"typescript": {
+		"importDeclaration.sortNamedImports": "maintain",
 		"semiColons": "asi",
 		"quoteStyle": "alwaysSingle",
 		"jsx.quoteStyle": "preferSingle",
