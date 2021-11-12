@@ -4,10 +4,10 @@
 	"useTabs": true,
 	"indentWidth": 4,
 	"typescript": {
-		"arguments.trailingCommas": "never",
 		"semiColons": "asi",
 		"quoteStyle": "alwaysSingle",
-		"jsx.quoteStyle": "preferSingle"
+		"jsx.quoteStyle": "preferSingle",
+		"trailingCommas": "onlyMultiLine"
 	},
 	"json": {
 	},
